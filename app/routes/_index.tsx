@@ -83,6 +83,33 @@ declare global {
 
 const resources = [
   {
+    href: "/deep-tree-echo",
+    text: "Deep Tree Echo Home (with Inference Engine)",
+    icon: (
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="24"
+        height="20"
+        viewBox="0 0 20 20"
+        fill="none"
+        className="stroke-gray-600 group-hover:stroke-current dark:stroke-gray-300"
+      >
+        <path
+          d="M10 2L3 7V18H7V14H13V18H17V7L10 2Z"
+          strokeWidth="1.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
+        <path
+          d="M7 10L10 7L13 10"
+          strokeWidth="1.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
+      </svg>
+    ),
+  },
+  {
     href: "/map",
     text: "Echo Home Map",
     icon: (
