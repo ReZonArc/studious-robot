@@ -24,6 +24,7 @@
     "ml-matrix": "^6.12.1",
     "monaco-editor": "^0.54.0",
     "openai": "^6.4.0",
+    "python-shell": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.5.0",
